@@ -1,0 +1,24 @@
+{
+  "name": "11ty-tech-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadiachaja/11ty-tech-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadiachaja/11ty-tech-stack/issues"
+  },
+  "homepage": "https://github.com/nadiachaja/11ty-tech-stack#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
